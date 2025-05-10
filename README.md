@@ -19,3 +19,28 @@ Users enter details like age, weight, allergies, and preferences to create a pro
 **User Interface:** Built with React.js and Tailwind CSS, the interface allows easy interaction, while the backend, powered by Flask and Django REST Framework, manages data and APIs.
 
 **Continuous Improvement:** User feedback helps refine machine learning models, improving allergen detection and dietary recommendations.
+
+**LANGUAGES AND TOOLS USED**
+**Frontend:**
+
+**React.js:** For building a dynamic, user-friendly interface.
+
+**Tailwind CSS:** For modern, responsive styling.
+
+**Tesseract OCR:** Open-source OCR engine used to extract text from food label images.
+
+**Backend:**
+
+**Python:** Used for backend development, specifically for integrating machine learning models.
+
+**Flask:** A lightweight Python framework for building the backend and handling API requests.
+
+**Django REST Framework:** For building robust APIs to manage the data flow between frontend and backend.
+
+**Express.js:** A fast, minimal web framework for building the backend in JavaScript.
+
+**Node.js:** A JavaScript runtime used for the backend development.
+
+**Database:**
+
+**MongoDB:** A NoSQL database used for storing user profiles, food information, and allergy-related data.
